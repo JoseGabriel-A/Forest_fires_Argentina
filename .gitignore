@@ -1,0 +1,6 @@
+*.pdf
+*.jpg
+*.png
+.ipynb_checkpoints/
+*.csv
+Afected_surface_Argentina.ipynb
